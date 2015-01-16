@@ -69,3 +69,5 @@ Altro
 [ScoutGamesZola](https://marketplace.firefox.com/app/scoutgameszola) - Database di giochi per ragazzi 
 
 [LibrettoUniversitario](https://marketplace.firefox.com/app/libretto-universitario/) - Libretto Universitario
+
+[SurfDoseAlert](https://marketplace.firefox.com/app/surfdosealert) - La sveglia per i Kiters ed i Windsurfers
