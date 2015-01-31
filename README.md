@@ -51,6 +51,15 @@ Informazioni
 
 [StaseraInTv](https://marketplace.firefox.com/app/stasera-in-tv-guida-tv) - Lista dei programmi in Tv
 
+Utility
+-------
+[Rington Picker](https://marketplace.firefox.com/app/ringtone-picker) - scegli la tua suoneria preferita
+
+[Interpreter](https://marketplace.firefox.com/app/interprete) - traduttore multilingua
+
+[Radio Rai](https://marketplace.firefox.com/app/radio-rai) - Ascolta lo Streaming dai canali radio della Rai
+
+[LibrettoUniversitario](https://marketplace.firefox.com/app/libretto-universitario/) - Libretto Universitario
 
 Social
 ------
@@ -64,10 +73,18 @@ Altro
 
 [LawU](https://marketplace.firefox.com/app/lawu-alpha) - Organizza e sottoscrivi petizioni, leggi e commenta leggi in fase di approvazione nel Parlamento Italiano
 
-[Radio Rai](https://marketplace.firefox.com/app/radio-rai) - Ascolta lo Streaming dai canali radio della Rai
-
 [ScoutGamesZola](https://marketplace.firefox.com/app/scoutgameszola) - Database di giochi per ragazzi 
 
-[LibrettoUniversitario](https://marketplace.firefox.com/app/libretto-universitario/) - Libretto Universitario
-
 [SurfDoseAlert](https://marketplace.firefox.com/app/surfdosealert) - La sveglia per i Kiters ed i Windsurfers
+
+[Scola!](https://marketplace.firefox.com/app/scola) - Timer per scolare la pasta
+
+Apps fatte da Italiani
+----------------------
+[talk with granpa](https://marketplace.firefox.com/app/talk-with-grandpa) - Luciano Giuseppe
+
+[Perudo Dice](https://marketplace.firefox.com/app/perudo-dice) - Francesco Michienzi
+
+[Zompa Cavallo](https://marketplace.firefox.com/app/zompa-cavallo) - Francesco Michienzi -verificare supporto italiano
+
+
