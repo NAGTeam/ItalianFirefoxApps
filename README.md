@@ -22,6 +22,8 @@ News
 
 [Nicokant94](https://marketplace.firefox.com/app/nicokant94) - Notizie dal blog di nicokant
 
+[aro94's blog](https://marketplace.firefox.com/app/aro94s-blog) - Notizie dal blog di aro94
+
 [MSN](https://marketplace.firefox.com/app/msn) - Riepilogo dalla homepage MSN
 
 
